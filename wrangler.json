@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "china-accelerator",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1c27f377-8fd5-48b4-bcdf-820ac2018667",
+			"database_name": "china-accelerator-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
